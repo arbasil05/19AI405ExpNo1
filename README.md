@@ -104,3 +104,9 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 </code>
 </pre>
+
+# OUTPUT 
+![image](https://github.com/21005984/19AI405ExpNo1/assets/94748389/0d567d50-84f6-41d4-9dfe-ac72c9b33122)
+
+# RESULT :
+Thus, an AI agent is developed.
